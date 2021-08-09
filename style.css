@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.card {
+    border: solid 3px black;
+    padding: 10px;
+    margin: 30px;
+    width: 500px;
+    text-align: center;
+    background-color: white;
+}
+
+.user-name {
+    font-weight: bold;
+}
